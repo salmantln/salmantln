@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Salman</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;SwiftUI+%2B+Rive+Fan;Lover+of+Clean+Code+%26+Chaos+Resilience&font=Fira%20Code&center=true&width=440&height=45&color=66ccff&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66CCFF&center=true&vCenter=true&width=440&lines=Full-stack+developer+%F0%9F%94%A5;React+Native+%7C+SwiftUI+%7C+Rive+Lover+%F0%9F%A7%A1;Design+meets+Code+%E2%9D%A4%EF%B8%8F" />
 </p>
 
 <p align="center">
@@ -9,61 +9,67 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🎯 Currently building **Dev Swipe** – a swipeable discovery app for dev projects
-- 🧠 Exploring AI, automation, and app animations with **SwiftUI + Rive**
-- 🛠️ Languages I love: **JavaScript**, **Swift**, **TypeScript**, and **Node.js**
-- 🤝 Open to collab on cool tools, AI integrations, and motion design
+- 🔨 Currently building **[Plab](https://github.com/salmantln)** — a platform for driving schools and students to manage driving theory lessons and progress. Soon launching a **React Native app**.
+- 💙 Working on **Feels** – a beautiful mood tracking app built with **SwiftUI + Rive** to explore emotional UX and motion design.
+- 💰 Creator of **[Wally](https://wallybudgeting.app)** – a cross-platform budgeting app built with **Flutter**, now with **5,000+ users** on iOS & Android.
+- 🧠 Interning at **[Campercontact](https://campercontact.com)** – building **AI-powered tools** for data validation and internal workflows.
+- 🎯 Also working on **Dev Swipe**, a Tinder-style platform helping **UI/UX designers and developers** discover job listings interactively. (Web, iOS, Android — under active development)
 
 ---
 
-### 🛠 Tech Stack
+## 💻 Tech Stack & Tools I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,swift,ts,js,nodejs,express,postgres,firebase,supabase,tailwind,figma,github" />
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,reactnative,nodejs,swift,flutter,java,express,tailwind,figma,rive,postgres" />
 </p>
 
----
-
-### 🚀 Projects
-
-| 📱 App | ✨ Description | 🔧 Stack |
-|-------|----------------|----------|
-| [Dev Swipe](https://github.com/salmantln/Dev-Swipe) | Tinder-style app for dev portfolios | React Native, Firebase |
-| [Plated 🍽️](https://github.com/salmantln/Plated) | AI food diary using Rive + OpenAI | SwiftUI, Rive, Supabase |
-| [CampIQ 🏕️](https://github.com/salmantln/CampIQ) | AI campsite analyzer and scraper | Node.js, Mistral, PostgreSQL |
+I’m passionate about **motion design**, and how smooth micro-interactions and UI animations can shape delightful product experiences.
 
 ---
 
-### 📊 GitHub Stats
+## 🧩 Featured Projects
+
+| 🔥 Project | 🚀 Description | ⚙️ Stack |
+|-----------|----------------|----------|
+| [Wally Budgeting](https://wallybudgeting.app) | Budgeting app with charts, tracking & goals – live on App Store & Play Store | Flutter, Firebase |
+| Feels | Mood tracker & emotional journal with animations | SwiftUI, Rive |
+| Plab | Driving school platform for students and instructors | React Native, Firebase |
+| Dev Swipe | Discover developer jobs Tinder-style | React, React Native, Supabase |
+| CamperAI | Internal AI agent for data validation & knowledge access | Node.js, Mistral, Express |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmantln&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=salmantln&show_icons=true&theme=tokyonight" alt="Salman's GitHub stats" />
   <br />
   <img src="https://streak-stats.demolab.com?user=salmantln&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🖼️ Motion & Visuals
+## 🎨 Design + Motion
 
-> Here's a Rive animation I love working with:
+> I believe in interfaces that feel as good as they look. I’m learning motion design using **Rive**, and working to bring those ideas to life in mobile UI.
 
 <p align="center">
-  <img src="https://cdn.rive.app/animations/vehicles.riv.gif" width="250" alt="Rive animation" />
+  <img src="https://cdn.rive.app/animations/vehicles.riv.gif" width="220" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/salmantln"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:salmantln@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/salmantln"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:salmantln@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/salmantln"><img src="https://img.shields.io/github/followers/salmantln?label=Follow&style=social" /></a>
 </p>
 
 ---
 
-> _"First solve the problem. Then, write the code."_ — John Johnson
+> _"Build things that feel alive — that's where magic happens."_
+
