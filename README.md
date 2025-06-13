@@ -37,7 +37,7 @@ I’m passionate about **motion design**, and how smooth micro-interactions and 
 | Feels | Mood tracker & emotional journal with animations | SwiftUI, Rive |
 | Plab | Driving school platform for students and instructors | React Native, Firebase |
 | Dev Swipe | Discover developer jobs Tinder-style | React, React Native, Supabase |
-| CamperAI | Internal AI agent for data validation & knowledge access | Node.js, Mistral, Express |
+| Campercontact | Internal AI agent for data validation & knowledge access | Node.js, Mistral, Express |
 
 ---
 
