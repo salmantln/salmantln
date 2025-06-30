@@ -65,7 +65,7 @@ I’m passionate about **motion design**, and how smooth micro-interactions and 
 
 <p align="center">
   <a href="https://linkedin.com/in/salmantln"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:salmantln@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:salmanlartey@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/salmantln"><img src="https://img.shields.io/github/followers/salmantln?label=Follow&style=social" /></a>
 </p>
 
