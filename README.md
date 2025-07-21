@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🔨 Currently building **[Plab](https://github.com/salmantln)** — a platform for driving schools and students to manage driving theory lessons and progress. Soon launching a **React Native app**.
+- 🔨 Currently building **[Plab](https://plab-web.vercel.app/)** — a platform for driving schools and students to manage driving theory lessons and progress. Soon launching a **React (Native) app**.
 - 💙 Working on **Feels** – a beautiful mood tracking app built with **SwiftUI + Rive** to explore emotional UX and motion design.
 - 💰 Creator of **[Wally](https://wallybudgeting.app)** – a cross-platform budgeting app built with **Flutter**, now with **5,000+ users** on iOS & Android.
 - 🧠 Interning at **[Campercontact](https://campercontact.com)** – building **AI-powered tools** for data validation and internal workflows.
