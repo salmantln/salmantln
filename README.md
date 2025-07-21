@@ -35,7 +35,7 @@ I’m passionate about **motion design**, and how smooth micro-interactions and 
 |-----------|----------------|----------|
 | [Wally Budgeting](https://wallybudgeting.app) | Budgeting app with charts, tracking & goals – live on App Store & Play Store | Flutter, Firebase |
 | Feels | Mood tracker & emotional journal with animations | SwiftUI, Rive |
-| Plab | Driving school platform for students and instructors | React Native, Firebase |
+| [Plab](https://plab-web.vercel.app/) | Driving school platform for students and instructors | React (Native), Supabase |Redux
 | Dev Swipe | Discover developer jobs Tinder-style | React, React Native, Supabase |
 | Campercontact | Internal AI agent for data validation & knowledge access | Node.js, Mistral, Express |
 
